@@ -1,1 +1,1 @@
-# Sales_Insights
+Objective: Utilize diverse sales parameters to extract actionable insights and create an interactive dashboard with advanced visualizations. This will empower stakeholders to make informed, data-driven decisions that enhance sales performance and strategy. Tools used: MYSQL, SQL, Tableau Dataset from - Kaggle
